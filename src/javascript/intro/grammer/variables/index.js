@@ -14,3 +14,5 @@
 // 2. You can update or change a Let variable, a Const cannot be changed, hence the reason it is called a Constant.
 // 3. Const should be used if you want your code to remain unchanged, Let will not protect your variable value, use Let when you 
 //    are ok with allowing the value of the variable to be changed.
+var -'idfd'
+const = 'dkdha'
