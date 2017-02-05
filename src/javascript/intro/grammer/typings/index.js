@@ -1,14 +1,14 @@
 export default { //Object
     todaysDate: Date(),
-    isTrue: true,
-    isFalse: false,
+    carRuns: true,
+    carBroken: false,
     address: '2111 N Hillfield Rd E138', // string
-    pets: ['Emerson', 'Sugar', 'Cinnamon', 'Beau'], //array
+    cars: ['Honda Civic Dx', 'Honda Civic Si', 'Jeep JKU', 'Chevy Chevelle'], //array
     year: 2017,
     notDefined: undefined,
     nullable: null,
     greet() { //method
-        return 'Hello';
+        return 'Gentlemen, Start Your Engines!';
     },
     car: { //Object
         year: 1971,
